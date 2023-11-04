@@ -1,0 +1,23 @@
+LoIDE: extending and securing a modern IDE for Logic Programming
+
+- Introduction
+
+- Context(ASP, systems, development tools, icloud)
+
+- LoIDE and EmbASP
+
+- Extensions
+
+- Securing
+
+- Conclusions
+
+-------
+
+- Dockerization of the service
+- Distribution of the service between two hosts
+- Security problem fixed(with bwrap) INCOMPLETE
+- PWA debug
+- Serched for alternatives for securing the service
+- Implementing a CI/CD pipeline(?, maybe say it in another way)
+- Migration to a new server
